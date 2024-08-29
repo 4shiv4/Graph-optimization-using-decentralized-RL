@@ -8,6 +8,6 @@ Imagine you have a party where certain guests don't get along with each other, s
 In mathematical terms, this scenario describes finding a Maximum Independent Set in a graph—this set includes the largest number of nodes such that no two nodes are directly connected.
 
 
-Project Objective
+Project Objective:
 
 The main goal of your project is to use a kind of artificial intelligence known as Reinforcement Learning (RL), but instead of using one central system that makes decisions, you want to see if each guest (node) can decide on their own whether to join the group (independent set). This is called decentralized or distributed RL, where each node acts as an agent that learns from its situation to make the best decision without central oversight.
